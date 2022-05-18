@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+    <h1>Short URLS</h1>
+    <form method='POST' action="#">
+        <input type="text" name="url" placeholder="enter the url to shorten">
+        <input type="submit" value="submit">
+    
+    <div id="post-urls">
+        {% for url in urls %}
+            <p>{{url[1]}}</p>
+            <a href="{{url[2]}}">{{url[2]}}</a>
+        {% endfor %}
+    </div>
+    
+{% endblock content %}
