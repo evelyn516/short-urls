@@ -22,3 +22,5 @@
 - Testing a database
 
 
+
+### Note that the client-react folder has not been used, click on the server submodule for the full project
