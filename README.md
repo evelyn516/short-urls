@@ -5,11 +5,18 @@
 
 - To see all urls in db go to -  https://shorter-urls-4all.herokuapp.com/urls
 
+## Installation
+- clone and download this repo
+- in the terminal run
+- 1. ```git submodule update --init```
+- 2. ``` pipenv install ```
+- 3. ```flask run```
+
 ## Bugs
 - [] 
 
 ## TO DO
-- [] front end
+- [x] front end
 - [] custom error handling
 - [] testing
 
@@ -20,6 +27,7 @@
 # Challenges
 - Deploying with a database
 - Testing a database
+- CSS and remembering front end
 
 
 
