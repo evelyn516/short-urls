@@ -8,17 +8,17 @@
 ## Installation
 - clone and download this repo
 - in the terminal run
-- 1. ```git submodule update --init```
-- 2. ``` pipenv install ```
-- 3. ```flask run```
+1. ```git submodule update --init```
+2. ``` pipenv install ```
+3. ```flask run```
 
 ## Bugs
-- [] 
+- [ ] 
 
 ## TO DO
 - [x] front end
-- [] custom error handling
-- [] testing
+- [ ] custom error handling
+- [ ] testing
 
 ## Wins & Challenges
 # Wins
