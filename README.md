@@ -13,10 +13,11 @@
 3. ```flask run```
 
 ## Bugs
-- [ ] 
+[ ] deployment issues 
 
 ## TO DO
 - [x] front end
+- [x] deploy
 - [ ] custom error handling
 - [ ] testing
 
